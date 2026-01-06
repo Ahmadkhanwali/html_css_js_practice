@@ -1,0 +1,23 @@
+table{
+   border-collapse: collapse;
+   width: 100%;
+   ۰۷۰۸۴۱۶۶۹۴
+}
+td,th{
+   border: 2px solid blueviolet;
+   padding: 8px;
+    
+}
+
+th{
+   text-align: left;
+   
+   background: aqua;
+}
+
+tr:nth-child(even){
+   background-color: rgb(165, 155, 155);
+}
+
+
+
